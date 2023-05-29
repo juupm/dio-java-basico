@@ -1,4 +1,5 @@
 # dio-java-basico
-Repositório para o conteúdo do curso Dio Java Básico
+Repositório para o conteúdo dos cursos Java Básico
 
-- Alterando o conteudo de um arquivo de forma local -
+- Alterando o conteudo de um arquivo de forma local
+- Estudos sobre a anatomia Java
